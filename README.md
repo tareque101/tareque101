@@ -1,27 +1,69 @@
-<h1 align="center">Hi 👋, I'm Tareque Rahman</h1>
-<h3 align="center">I am passionate about Web development, programming</h3>
+<h1 align="center">👋 Hi, I'm Tareque Rahman</h1>
+<h3 align="center">🚀 Full Stack Developer |  Programmer | Tech Enthusiast | Dreaming to Tech Entrepreneur</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tareque101&label=Profile%20views&color=0e75b6&style=flat" alt="tareque101" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tareque101" alt="tareque101" /></a> </p>
-
-- 🔭 I’m currently working on [SIU ICT FEST 2025](https://github.com/fuadhasan1122/ICT-Fest-Website)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/tareque101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tareque101" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tarakur-rahman-643160216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarakur-rahman-643160216" height="30" width="40" /></a>
-<a href="https://kaggle.com/kaggle.com/tarakurrahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle.com/tarakurrahman" height="30" width="40" /></a>
-<a href="https://fb.com/tarakurrahman0185" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tarakurrahman0185" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/codechef.com/profile/tareque101" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef.com/profile/tareque101" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/codeforces.com/profile/tareque101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces.com/profile/tareque101" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/tareque101">
+    <img src="https://komarev.com/ghpvc/?username=tareque101&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="tareque101" />
+  </a>
+  <a href="https://github.com/tareque101?tab=followers">
+    <img src="https://img.shields.io/github/followers/tareque101?label=Followers&style=for-the-badge" alt="Followers" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tareque101&show_icons=true&locale=en&layout=compact" alt="tareque101" /></p>
+## 🔥 Featured Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tareque101&show_icons=true&locale=en" alt="tareque101" /></p>
+| Project | Tech Stack | Description |
+|---------|------------|-------------|
+| **SIU ICT FEST 2025** | Javascript, MySQL, HTML,CSS | Digital platform for easy management of SIU ICT FEST 2025 | 
+| **STUDENT SWAP BD** | Javascript,  MySQL, HTML, Taiwind CSS | It is a platform where student can exchange, sell, buy used student materials.  
+| **SIU DIGITAL COMPLAINT BOX** | PHP, MySQLHTML, Taiwind CSS | complaint in a smart way |  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tareque101&" alt="tareque101" /></p>
+---
+
+## � Achievements
+- 🏅 ICPC sylhet Regional Participant (2024)
+- 🏅 MU CSE FEST Participant(2023)
+- 🏅 Regular Programming Contest Participant
+
+---
+
+## 💼 Experience
+- **Campus Ambassador** - FutureNation (2024-Present), ICT Olympiad Bangladesh (2024)
+- **Volunteer** - Sylhet Regional Physics Olympiad (2024),FutureNation (2024-Present)
+- **Social media Coordinator** - CSE Society, SIU ( Auguest 2023 - JUly 2024 )
+- **Intern** - Monitoring,Job placement,YSSE ( May 2024 - July 2024 )
+
+---
+
+## 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,py,java,cpp,mysql,flask,react,nodejs,git,figma,arduino&perline=7" alt="Tech Stack" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tareque101&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tareque101&theme=radical" />
+</p>
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tareque101&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🌐 Let's Connect
+<p align="center">
+  <a href="https://linkedin.com/in/tarakur-rahman-643160216">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/tareque101">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://fb.com/tarakurrahman0185">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
