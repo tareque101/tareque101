@@ -12,7 +12,7 @@
 
 ---
 
-## 🔥 Featured Projects
+##  Featured Projects
 
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
@@ -22,10 +22,11 @@
 
 ---
 
-## � Achievements
+## � Competitive Programming
 - 🏅 ICPC sylhet Regional Participant (2024)
 - 🏅 MU CSE FEST Participant(2023)
 - 🏅 Regular Programming Contest Participant
+- 🏅 one of top 3 Competitive Programmer at SIU in 2023
 
 ---
 
